@@ -1,0 +1,31 @@
+.container {
+    margin: auto;
+    width: 50%;
+    outline-style: solid;
+    outline-color: lightgray;
+    padding: 1em 2em;
+    height: 80%;
+    margin-bottom: 5em;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    margin-bottom: 5em;
+}
+
+.heading {
+    text-align:center;
+    font-weight: bolder;
+}
+.header {
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0;
+}
+.number{
+    margin:0;
+    font-style: italic;
+}
+.contact{
+    margin: 1.5em;
+}
