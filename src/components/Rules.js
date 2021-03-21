@@ -78,7 +78,7 @@ For motorized vehicles, you are safe from an assassin outside of the vehicle as 
 </li>
 <li>This means that drive-by kills and stuns are not allowed. However, kills made from a parked car upon a target outside of the car are allowed.
 </li>
-<li>You CANNOT ride bikes on campus; this could jeopardize the entire game and will result in disqualification.
+<li>You CANNOT ride bikes on LHS campus (that's just a normal LHS rule). 
 </li>
 <li>
 You cannot be killed in a gym, as it’s a public building. 
