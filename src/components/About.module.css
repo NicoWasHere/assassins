@@ -14,3 +14,9 @@
     font-size: 14px;
     text-align: left;
 }
+
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 80%;
+    }
+}  

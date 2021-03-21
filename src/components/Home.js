@@ -29,7 +29,7 @@ function Home() {
     return (
         <div className = {styles.container}> 
         <img width="300" height="300" className = {styles.pic} src={logo} alt="logo"  />
-        <p className = {styles.welcome}>Welcome, Assassins.</p>
+        <p className = {styles.welcome}>WelcoMe, assAssins.</p>
         <div>
             <p className = {styles.caption}>{timerCaption}</p>
             <p className = {styles.timer}>
