@@ -25,7 +25,7 @@ function Rules() {
         <p className = {styles.heading}>Players CANNOT be killed or stunned:</p>
         <ul className = {styles.blurblist}>
             <li>
-            On the Lexington High School campus. This is a safe zone at all times (yes, even at 2 am on a Saturday)
+            On the Lexington High School campus. This is a safe zone at all times (yes, even at 2 am on a Saturday), but other LPS schools are not a safe zone. 
             </li>
             <li>
             On Worthen Rd (up to the skatepark on one side and Capt. Parker Arms on the other side), the J Lot (including Parker St, Clarke St, and Park St) from Monday to Friday from 8am to 1pm.
