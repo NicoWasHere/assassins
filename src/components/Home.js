@@ -22,7 +22,7 @@ const timeDiffs = dates.map((date) => date - Date.now())
 const timeDiffsFuture = timeDiffs.filter((timeDiff) => timeDiff > 0)
 const soonestTime = Math.min(...timeDiffsFuture)
 const current = timeDiffs.findIndex((td) => td === soonestTime)
-let timerCaption = current===0 ? "Your mission begins in:" : "Kill " + current + " is due in:"
+let timerCaption = current===0 ? "youR Mission beGins in:" : "Kill " + current + " is due in:"
 
 
 function Home() {
