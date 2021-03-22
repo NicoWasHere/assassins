@@ -10,7 +10,7 @@ function Rules() {
         <p className = {styles.heading}>Stunning:</p>
         <p className = {styles.blurb}>If the target hits their assassin first, then the assassin is “stunned” and cannot attack the target for one hour. Only the target can stun their assassin. The stunned participant may still stun in their own defense during this time.</p>
         <p className = {styles.heading}>Cycles:</p>
-        <p className = {styles.blurb}>Once the game has begun (April 26th) you will have 7 days to make your first kill and complete your first mission. Each cycle will decrease by one day, so you will have 6 days to make your second kill  and complete your second mission, 5 to make your third kill and complete your third mission, and so on. Kills can be accumulated, so if you kill three people within the first day you do not have to make another kill for the next three cycles. Missions will be assigned at the start of each cycle.</p>
+        <p className = {styles.blurb}>Once the game has begun (April 26th) you will have 7 days to make your first kill and complete your first mission. Each cycle will decrease by one day, so you will have 6 days to make your second kill  and complete your second mission, 5 to make your third kill and complete your third mission, and so on. Kills can be accumulated, so if you kill three people within the first day you do not have to make another kill for the next three cycles. If you fail to keep up with kills, you are disqualified and out of the game. Missions will be assigned at the start of each cycle.</p>
         <p className = {styles.heading}>Missions:</p>
         <p className = {styles.blurb}>This year, because of COVID, you will be assigned a random “mission location” in Lexington at the start of every cycle. You will need to go to this location before the end of the current cycle. You will need to find a specific location and send in a selfie of yourself to prove that you’ve been there. Assassins will be informed of their target’s location, but not when in the day they will be going. This is a way to get people out of the house, and more specific information will be coming on this. 
 </p>
@@ -25,7 +25,7 @@ function Rules() {
         <p className = {styles.heading}>Players CANNOT be killed or stunned:</p>
         <ul className = {styles.blurblist}>
             <li>
-            On the Lexington High School campus. This is a safe zone at all times (yes, even at 2 am on a Saturday)
+            On the Lexington High School campus. This is a safe zone at all times (yes, even at 2 am on a Saturday), but other LPS schools are not a safe zone. 
             </li>
             <li>
             On Worthen Rd (up to the skatepark on one side and Capt. Parker Arms on the other side), the J Lot (including Parker St, Clarke St, and Park St) from Monday to Friday from 8am to 1pm.
@@ -78,7 +78,7 @@ For motorized vehicles, you are safe from an assassin outside of the vehicle as 
 </li>
 <li>This means that drive-by kills and stuns are not allowed. However, kills made from a parked car upon a target outside of the car are allowed.
 </li>
-<li>You CANNOT ride bikes on campus; this could jeopardize the entire game and will result in disqualification.
+<li>You CANNOT ride bikes on LHS campus (that's just a normal LHS rule). 
 </li>
 <li>
 You cannot be killed in a gym, as it’s a public building. 
