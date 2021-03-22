@@ -6,7 +6,7 @@ function Rules() {
         <div className = {styles.container}> 
         <p className = {styles.bigheading}>Rulebook</p>
         <p className = {styles.heading}>Killing:</p>
-        <p className = {styles.blurb}>After each kill, both the assassin and the target must text at least one Administrator. In the case of any dispute, contact the administrators immediately. Any kill that may fall outside the realm of the rules, or any disagreements about a kill, must be appealed to the administrators who will listen to both sides, discuss the kill and make our decision, which is final and cannot be changed.</p>
+        <p className = {styles.blurb}>Players are killed by being doused in any amount of pure water by their assassin. After each kill, both the assassin and the target must text at least one Administrator. In the case of any dispute, contact the administrators immediately. Any kill that may fall outside the realm of the rules, or any disagreements about a kill, must be appealed to the administrators who will listen to both sides, discuss the kill and make our decision, which is final and cannot be changed.</p>
         <p className = {styles.heading}>Stunning:</p>
         <p className = {styles.blurb}>If the target hits their assassin first, then the assassin is “stunned” and cannot attack the target for one hour. Only the target can stun their assassin. The stunned participant may still stun in their own defense during this time.</p>
         <p className = {styles.heading}>Cycles:</p>
