@@ -106,6 +106,9 @@ You cannot be killed in a gym, as it’s a public building.
 <p className = {styles.blurb}>If you get stressed or bored or just don't want to play anymore, contact the administrators and we will notify your attacker. You will be eliminated but you won't need to time out or be shot with a water gun.
 </p>
 
+<p className = {styles.heading}>Disqualification: </p>
+<p className = {styles.blurb}>If you do not complete your mission by the end of the kill period (or break any rules), you are disqualified. If your target gets disqualified, it will work as a Gentleman's Kill and you will not be eliminated.
+</p>
 
 <p className = {styles.heading}>Elimination:</p>
 <p className = {styles.blurb}>Inevitably the majority of you are going to be eliminated, and once you are killed you must give your assassin the name of your target. This becomes their new target. We ask that both players report the elimination as soon as possible so that it can be confirmed by the administrators. If both the target and assassin have agreed on the kill you do not have to wait until elimination is confirmed to make your next kill, but you MUST still tell the administrators ASAP. HOWEVER, if there is a disagreement that needs to be confirmed DO NOT make your next kill until the administrators have confirmed it.
