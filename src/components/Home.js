@@ -63,6 +63,8 @@ function Home() {
             <div><a className = {styles.menuitem} href="https://forms.gle/yzaUzCWqpxc9AxVY8" title="register">register</a></div>
             <div className = {styles.square}></div>
             <div><a className = {styles.menuitem} href="/contact" title="contact">contact</a></div>
+            <div className = {styles.square}></div>
+            <div><a className = {styles.menuitem} href="/highlights" title="contact">highlights</a></div>
         </div>
         </div>
     )

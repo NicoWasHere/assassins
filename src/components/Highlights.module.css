@@ -1,0 +1,40 @@
+.title {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.killBlurb {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    text-align: left;
+
+}
+
+.killBlurb img{
+    margin-right: 2px;
+    height: 10px;
+}
+
+.feedContainer{
+    margin: auto;
+    width: 50vw;
+    outline-style: solid;
+    outline-color: lightgray;
+    padding: 1em 2em;
+    height: 29.5vh;
+    line-height: 1.5rem;
+    overflow: scroll;
+}
+
+@media only screen and (max-width: 600px) {
+    .feedContainer {
+        width: 80%;
+    }
+}  

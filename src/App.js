@@ -9,6 +9,7 @@ import Home from "./components/Home"
 import About from "./components/About"
 import Rules from "./components/Rules"
 import Contact from "./components/Contact"
+import Highlights from "./components/Highlights"
 
 
 const App = withRouter(({ location }) => (
@@ -19,6 +20,7 @@ const App = withRouter(({ location }) => (
       <Route path="/about"><About /></Route>
       <Route path="/rules" ><Rules /></Route>
       <Route path="/contact" ><Contact /></Route>
+      <Route path="/highlights" ><Highlights/></Route>
       <Route path="*" ></Route><NotFound />
     </Switch>
   </div>

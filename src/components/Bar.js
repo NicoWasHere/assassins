@@ -18,6 +18,8 @@ function Bar(props) {
                 <a className = {styles.menuitem} href="https://forms.gle/yzaUzCWqpxc9AxVY8" title="register">register</a>
                 <div className = {styles.square}></div>
                 <NavLink activeClassName={styles.active} className={styles.menuitem} to='/contact' title="contact">contact</NavLink>
+                <div className = {styles.square}></div>
+                <NavLink activeClassName={styles.active} className={styles.menuitem} to='/highlights' title="contact">highlights</NavLink>
             </nav>
         </div>
     )
